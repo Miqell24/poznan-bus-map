@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T08:04:42.359Z",
+  "generatedAt": "2026-08-12T21:00:18.488Z",
   "bbox": [
     16.52553,
     52.151659,
@@ -96,7 +96,7 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Ogrody",
           "headsign": "Ogrody",
           "variants": 2,
           "tripCount": 37,
@@ -124,7 +124,7 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Junikowo",
           "headsign": "Junikowo",
           "variants": 2,
           "tripCount": 18,
@@ -152,9 +152,9 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Ekspedycja Franowo",
           "headsign": "Ekspedycja Franowo",
-          "variants": 8,
+          "variants": 4,
           "tripCount": 3,
           "stops": 25,
           "lengthKm": 18.49,
@@ -167,6 +167,27 @@
             "rawStretchCount": 0,
             "rawMeters": 0,
             "meanError": 2.6783142465005483,
+            "roundaboutSegs": 67,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Szwedzka",
+          "headsign": "Szwedzka",
+          "variants": 4,
+          "tripCount": 3,
+          "stops": 23,
+          "lengthKm": 16.39,
+          "stats": {
+            "observations": 501,
+            "matched": 501,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.7265255163416744,
             "roundaboutSegs": 67,
             "extStart": 0,
             "extEnd": 0
@@ -278,7 +299,7 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Poznań Główny",
           "headsign": "Poznań Główny",
           "variants": 4,
           "tripCount": 68,
@@ -355,9 +376,30 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Kurpińskiego",
+          "headsign": "Kurpińskiego",
+          "variants": 2,
+          "tripCount": 1,
+          "stops": 27,
+          "lengthKm": 12.04,
+          "stats": {
+            "observations": 544,
+            "matched": 544,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.371254596727857,
+            "roundaboutSegs": 50,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Os. Sobieskiego",
           "headsign": "Os. Sobieskiego",
-          "variants": 6,
+          "variants": 4,
           "tripCount": 35,
           "stops": 35,
           "lengthKm": 15.44,
@@ -775,7 +817,7 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Rondo Rataje",
           "headsign": "Rondo Rataje",
           "variants": 4,
           "tripCount": 16,
@@ -2224,7 +2266,7 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Rondo Rataje",
           "headsign": "Rondo Rataje",
           "variants": 4,
           "tripCount": 18,
@@ -2497,7 +2539,7 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Poznań Główny",
           "headsign": "Poznań Główny",
           "variants": 2,
           "tripCount": 6,
@@ -2672,9 +2714,9 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Garbary PKM",
           "headsign": "Garbary PKM",
-          "variants": 4,
+          "variants": 2,
           "tripCount": 5,
           "stops": 50,
           "lengthKm": 30.5,
@@ -2687,6 +2729,27 @@
             "rawStretchCount": 0,
             "rawMeters": 0,
             "meanError": 3.361313459491796,
+            "roundaboutSegs": 101,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Rondo Rataje",
+          "headsign": "Rondo Rataje",
+          "variants": 2,
+          "tripCount": 1,
+          "stops": 43,
+          "lengthKm": 27.24,
+          "stats": {
+            "observations": 971,
+            "matched": 971,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.520134335525353,
             "roundaboutSegs": 101,
             "extStart": 0,
             "extEnd": 0
@@ -2896,7 +2959,7 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Poznań Główny",
           "headsign": "Poznań Główny",
           "variants": 2,
           "tripCount": 6,
@@ -4345,9 +4408,30 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Swarzędz/Rynek",
+          "headsign": "Swarzędz/Rynek",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 9,
+          "lengthKm": 6.74,
+          "stats": {
+            "observations": 328,
+            "matched": 328,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.006459964435793,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Swarzędz/Węzeł Przesiadkowy",
           "headsign": "Swarzędz/Węzeł Przesiadkowy",
-          "variants": 3,
+          "variants": 2,
           "tripCount": 6,
           "stops": 9,
           "lengthKm": 6.83,
@@ -5059,7 +5143,7 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Rondo Rataje",
           "headsign": "Rondo Rataje",
           "variants": 1,
           "tripCount": 2,
@@ -5087,9 +5171,9 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Kórnik/Pl. Niepodległości",
           "headsign": "Kórnik/Pl. Niepodległości",
-          "variants": 3,
+          "variants": 2,
           "tripCount": 8,
           "stops": 22,
           "lengthKm": 17.31,
@@ -5102,6 +5186,27 @@
             "rawStretchCount": 0,
             "rawMeters": 0,
             "meanError": 6.835025163635169,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Kórnik/Szkoła nr 1",
+          "headsign": "Kórnik/Szkoła nr 1",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 23,
+          "lengthKm": 17.9,
+          "stats": {
+            "observations": 648,
+            "matched": 648,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.742925711428232,
             "roundaboutSegs": 0,
             "extStart": 0,
             "extEnd": 0
@@ -5311,7 +5416,7 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Kórnik/Bnin Osiedle",
           "headsign": "Kórnik/Bnin Osiedle",
           "variants": 1,
           "tripCount": 4,
@@ -5976,7 +6081,7 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Mosina/Dworzec Kolejowy",
           "headsign": "Mosina/Dworzec Kolejowy",
           "variants": 1,
           "tripCount": 12,
@@ -7425,9 +7530,51 @@
       "color": "#0059a9",
       "dirs": [
         {
-          "dir": "1",
+          "dir": "Chyby/Kwiatowa",
+          "headsign": "Chyby/Kwiatowa",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 18,
+          "lengthKm": 12.41,
+          "stats": {
+            "observations": 468,
+            "matched": 468,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.963659211971202,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Chyby/Szkolna",
+          "headsign": "Chyby/Szkolna",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 19,
+          "lengthKm": 12.99,
+          "stats": {
+            "observations": 497,
+            "matched": 497,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0991031866607615,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Ogrody",
           "headsign": "Ogrody",
-          "variants": 4,
+          "variants": 2,
           "tripCount": 20,
           "stops": 36,
           "lengthKm": 26.5,
