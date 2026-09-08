@@ -7795,714 +7795,6 @@
       "rank": 1
     },
     {
-      "line": "212",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Kacza",
-          "variants": 8,
-          "tripCount": 4,
-          "stops": 35,
-          "lengthKm": 18.1,
-          "stats": {
-            "observations": 792,
-            "matched": 792,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.0101368633850356,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Szwajcarska Szpital",
-          "variants": 8,
-          "tripCount": 3,
-          "stops": 35,
-          "lengthKm": 16.42,
-          "stats": {
-            "observations": 683,
-            "matched": 683,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.9562108802899805,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "213",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Pusta",
-          "variants": 8,
-          "tripCount": 4,
-          "stops": 30,
-          "lengthKm": 16.55,
-          "stats": {
-            "observations": 709,
-            "matched": 709,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.839926395791559,
-            "roundaboutSegs": 7,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Dębiec PKM",
-          "variants": 6,
-          "tripCount": 5,
-          "stops": 31,
-          "lengthKm": 16.87,
-          "stats": {
-            "observations": 717,
-            "matched": 717,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.099162164663579,
-            "roundaboutSegs": 14,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "214",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Radojewo",
-          "variants": 6,
-          "tripCount": 5,
-          "stops": 43,
-          "lengthKm": 21.41,
-          "stats": {
-            "observations": 920,
-            "matched": 920,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.0583259166517496,
-            "roundaboutSegs": 12,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Junikowo",
-          "variants": 6,
-          "tripCount": 5,
-          "stops": 42,
-          "lengthKm": 21.54,
-          "stats": {
-            "observations": 875,
-            "matched": 875,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.443788233954392,
-            "roundaboutSegs": 23,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "215",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Os. Sobieskiego",
-          "variants": 9,
-          "tripCount": 9,
-          "stops": 40,
-          "lengthKm": 18.15,
-          "stats": {
-            "observations": 799,
-            "matched": 799,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.4263989808895117,
-            "roundaboutSegs": 16,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Os. Dębina",
-          "variants": 9,
-          "tripCount": 8,
-          "stops": 39,
-          "lengthKm": 18.47,
-          "stats": {
-            "observations": 796,
-            "matched": 796,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.539713833562946,
-            "roundaboutSegs": 56,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "216",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "Poznań Główny",
-          "headsign": "Poznań Główny",
-          "variants": 2,
-          "tripCount": 6,
-          "stops": 61,
-          "lengthKm": 24.83,
-          "stats": {
-            "observations": 955,
-            "matched": 955,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.580337274742859,
-            "roundaboutSegs": 95,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "217",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Główna",
-          "variants": 8,
-          "tripCount": 3,
-          "stops": 24,
-          "lengthKm": 11.73,
-          "stats": {
-            "observations": 563,
-            "matched": 563,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.791762104422862,
-            "roundaboutSegs": 49,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Starołęka PKM",
-          "variants": 8,
-          "tripCount": 2,
-          "stops": 33,
-          "lengthKm": 15.57,
-          "stats": {
-            "observations": 683,
-            "matched": 683,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 4.651733633388656,
-            "roundaboutSegs": 56,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "218",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Szwajcarska Centrum Handlowe",
-          "variants": 6,
-          "tripCount": 11,
-          "stops": 45,
-          "lengthKm": 22.28,
-          "stats": {
-            "observations": 1032,
-            "matched": 1032,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.3281956617388584,
-            "roundaboutSegs": 35,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Os. Sobieskiego",
-          "variants": 6,
-          "tripCount": 11,
-          "stops": 46,
-          "lengthKm": 23.97,
-          "stats": {
-            "observations": 1143,
-            "matched": 1143,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.2477903722132946,
-            "roundaboutSegs": 30,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "219",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Poznań Główny",
-          "variants": 4,
-          "tripCount": 7,
-          "stops": 19,
-          "lengthKm": 9.3,
-          "stats": {
-            "observations": 438,
-            "matched": 438,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.8664525363492954,
-            "roundaboutSegs": 11,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Wichrowa",
-          "variants": 3,
-          "tripCount": 6,
-          "stops": 21,
-          "lengthKm": 10.52,
-          "stats": {
-            "observations": 409,
-            "matched": 409,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.790588669905014,
-            "roundaboutSegs": 11,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "220",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "Garbary PKM",
-          "headsign": "Garbary PKM",
-          "variants": 2,
-          "tripCount": 5,
-          "stops": 50,
-          "lengthKm": 30.5,
-          "stats": {
-            "observations": 1132,
-            "matched": 1132,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.361313459491796,
-            "roundaboutSegs": 101,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "Rondo Rataje",
-          "headsign": "Rondo Rataje",
-          "variants": 2,
-          "tripCount": 1,
-          "stops": 43,
-          "lengthKm": 27.24,
-          "stats": {
-            "observations": 971,
-            "matched": 971,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.520134335525353,
-            "roundaboutSegs": 101,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "221",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Garbary PKM",
-          "variants": 4,
-          "tripCount": 6,
-          "stops": 34,
-          "lengthKm": 16.73,
-          "stats": {
-            "observations": 697,
-            "matched": 697,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.871971326373676,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sypniewo",
-          "variants": 4,
-          "tripCount": 5,
-          "stops": 33,
-          "lengthKm": 16.68,
-          "stats": {
-            "observations": 660,
-            "matched": 660,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.2949010411037656,
-            "roundaboutSegs": 21,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "222",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Port Lotniczy Ławica",
-          "variants": 4,
-          "tripCount": 5,
-          "stops": 51,
-          "lengthKm": 27.01,
-          "stats": {
-            "observations": 1104,
-            "matched": 1104,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.95872879640896,
-            "roundaboutSegs": 22,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "WA1",
-          "variants": 6,
-          "tripCount": 2,
-          "stops": 53,
-          "lengthKm": 27.39,
-          "stats": {
-            "observations": 1079,
-            "matched": 1079,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.0364678647541634,
-            "roundaboutSegs": 53,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "223",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Pusta",
-          "variants": 4,
-          "tripCount": 3,
-          "stops": 25,
-          "lengthKm": 13.87,
-          "stats": {
-            "observations": 598,
-            "matched": 598,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.2676316355980535,
-            "roundaboutSegs": 7,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Kacza",
-          "variants": 4,
-          "tripCount": 3,
-          "stops": 25,
-          "lengthKm": 13.94,
-          "stats": {
-            "observations": 601,
-            "matched": 601,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.710628972384887,
-            "roundaboutSegs": 14,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "224",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Boranta",
-          "variants": 5,
-          "tripCount": 3,
-          "stops": 32,
-          "lengthKm": 18.54,
-          "stats": {
-            "observations": 762,
-            "matched": 762,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.010978798289045,
-            "roundaboutSegs": 51,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Junikowo PKM",
-          "variants": 5,
-          "tripCount": 3,
-          "stops": 35,
-          "lengthKm": 18.36,
-          "stats": {
-            "observations": 755,
-            "matched": 755,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.623443752444658,
-            "roundaboutSegs": 23,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "226",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "Poznań Główny",
-          "headsign": "Poznań Główny",
-          "variants": 2,
-          "tripCount": 6,
-          "stops": 52,
-          "lengthKm": 24.45,
-          "stats": {
-            "observations": 1055,
-            "matched": 1055,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.3151823169309758,
-            "roundaboutSegs": 115,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "227",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Koziegłowy/Os. Leśne",
-          "variants": 4,
-          "tripCount": 5,
-          "stops": 18,
-          "lengthKm": 9.69,
-          "stats": {
-            "observations": 433,
-            "matched": 433,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.5289760392064875,
-            "roundaboutSegs": 143,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Rondo Rataje",
-          "variants": 8,
-          "tripCount": 4,
-          "stops": 17,
-          "lengthKm": 8.71,
-          "stats": {
-            "observations": 367,
-            "matched": 367,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 5.619300129587733,
-            "roundaboutSegs": 55,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
       "line": "1",
       "mode": "tram",
       "color": "#d6212b",
@@ -9401,6 +8693,714 @@
         }
       ],
       "rank": 1
+    },
+    {
+      "line": "212",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Kacza",
+          "variants": 8,
+          "tripCount": 4,
+          "stops": 35,
+          "lengthKm": 18.1,
+          "stats": {
+            "observations": 792,
+            "matched": 792,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0101368633850356,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Szwajcarska Szpital",
+          "variants": 8,
+          "tripCount": 3,
+          "stops": 35,
+          "lengthKm": 16.42,
+          "stats": {
+            "observations": 683,
+            "matched": 683,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.9562108802899805,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "213",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Pusta",
+          "variants": 8,
+          "tripCount": 4,
+          "stops": 30,
+          "lengthKm": 16.55,
+          "stats": {
+            "observations": 709,
+            "matched": 709,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.839926395791559,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dębiec PKM",
+          "variants": 6,
+          "tripCount": 5,
+          "stops": 31,
+          "lengthKm": 16.87,
+          "stats": {
+            "observations": 717,
+            "matched": 717,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.099162164663579,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "214",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Radojewo",
+          "variants": 6,
+          "tripCount": 5,
+          "stops": 43,
+          "lengthKm": 21.41,
+          "stats": {
+            "observations": 920,
+            "matched": 920,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0583259166517496,
+            "roundaboutSegs": 12,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Junikowo",
+          "variants": 6,
+          "tripCount": 5,
+          "stops": 42,
+          "lengthKm": 21.54,
+          "stats": {
+            "observations": 875,
+            "matched": 875,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.443788233954392,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "215",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Os. Sobieskiego",
+          "variants": 9,
+          "tripCount": 9,
+          "stops": 40,
+          "lengthKm": 18.15,
+          "stats": {
+            "observations": 799,
+            "matched": 799,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4263989808895117,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Os. Dębina",
+          "variants": 9,
+          "tripCount": 8,
+          "stops": 39,
+          "lengthKm": 18.47,
+          "stats": {
+            "observations": 796,
+            "matched": 796,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.539713833562946,
+            "roundaboutSegs": 56,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "216",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Poznań Główny",
+          "headsign": "Poznań Główny",
+          "variants": 2,
+          "tripCount": 6,
+          "stops": 61,
+          "lengthKm": 24.83,
+          "stats": {
+            "observations": 955,
+            "matched": 955,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.580337274742859,
+            "roundaboutSegs": 95,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "217",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Główna",
+          "variants": 8,
+          "tripCount": 3,
+          "stops": 24,
+          "lengthKm": 11.73,
+          "stats": {
+            "observations": 563,
+            "matched": 563,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.791762104422862,
+            "roundaboutSegs": 49,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Starołęka PKM",
+          "variants": 8,
+          "tripCount": 2,
+          "stops": 33,
+          "lengthKm": 15.57,
+          "stats": {
+            "observations": 683,
+            "matched": 683,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.651733633388656,
+            "roundaboutSegs": 56,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "218",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Szwajcarska Centrum Handlowe",
+          "variants": 6,
+          "tripCount": 11,
+          "stops": 45,
+          "lengthKm": 22.28,
+          "stats": {
+            "observations": 1032,
+            "matched": 1032,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.3281956617388584,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Os. Sobieskiego",
+          "variants": 6,
+          "tripCount": 11,
+          "stops": 46,
+          "lengthKm": 23.97,
+          "stats": {
+            "observations": 1143,
+            "matched": 1143,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.2477903722132946,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "219",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Poznań Główny",
+          "variants": 4,
+          "tripCount": 7,
+          "stops": 19,
+          "lengthKm": 9.3,
+          "stats": {
+            "observations": 438,
+            "matched": 438,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8664525363492954,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Wichrowa",
+          "variants": 3,
+          "tripCount": 6,
+          "stops": 21,
+          "lengthKm": 10.52,
+          "stats": {
+            "observations": 409,
+            "matched": 409,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.790588669905014,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "220",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Garbary PKM",
+          "headsign": "Garbary PKM",
+          "variants": 2,
+          "tripCount": 5,
+          "stops": 50,
+          "lengthKm": 30.5,
+          "stats": {
+            "observations": 1132,
+            "matched": 1132,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.361313459491796,
+            "roundaboutSegs": 101,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Rondo Rataje",
+          "headsign": "Rondo Rataje",
+          "variants": 2,
+          "tripCount": 1,
+          "stops": 43,
+          "lengthKm": 27.24,
+          "stats": {
+            "observations": 971,
+            "matched": 971,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.520134335525353,
+            "roundaboutSegs": 101,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "221",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Garbary PKM",
+          "variants": 4,
+          "tripCount": 6,
+          "stops": 34,
+          "lengthKm": 16.73,
+          "stats": {
+            "observations": 697,
+            "matched": 697,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.871971326373676,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sypniewo",
+          "variants": 4,
+          "tripCount": 5,
+          "stops": 33,
+          "lengthKm": 16.68,
+          "stats": {
+            "observations": 660,
+            "matched": 660,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.2949010411037656,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "222",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Port Lotniczy Ławica",
+          "variants": 4,
+          "tripCount": 5,
+          "stops": 51,
+          "lengthKm": 27.01,
+          "stats": {
+            "observations": 1104,
+            "matched": 1104,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.95872879640896,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "WA1",
+          "variants": 6,
+          "tripCount": 2,
+          "stops": 53,
+          "lengthKm": 27.39,
+          "stats": {
+            "observations": 1079,
+            "matched": 1079,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0364678647541634,
+            "roundaboutSegs": 53,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "223",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Pusta",
+          "variants": 4,
+          "tripCount": 3,
+          "stops": 25,
+          "lengthKm": 13.87,
+          "stats": {
+            "observations": 598,
+            "matched": 598,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.2676316355980535,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Kacza",
+          "variants": 4,
+          "tripCount": 3,
+          "stops": 25,
+          "lengthKm": 13.94,
+          "stats": {
+            "observations": 601,
+            "matched": 601,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.710628972384887,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "224",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Boranta",
+          "variants": 5,
+          "tripCount": 3,
+          "stops": 32,
+          "lengthKm": 18.54,
+          "stats": {
+            "observations": 762,
+            "matched": 762,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.010978798289045,
+            "roundaboutSegs": 51,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Junikowo PKM",
+          "variants": 5,
+          "tripCount": 3,
+          "stops": 35,
+          "lengthKm": 18.36,
+          "stats": {
+            "observations": 755,
+            "matched": 755,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.623443752444658,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "226",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Poznań Główny",
+          "headsign": "Poznań Główny",
+          "variants": 2,
+          "tripCount": 6,
+          "stops": 52,
+          "lengthKm": 24.45,
+          "stats": {
+            "observations": 1055,
+            "matched": 1055,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.3151823169309758,
+            "roundaboutSegs": 115,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "227",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Koziegłowy/Os. Leśne",
+          "variants": 4,
+          "tripCount": 5,
+          "stops": 18,
+          "lengthKm": 9.69,
+          "stats": {
+            "observations": 433,
+            "matched": 433,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.5289760392064875,
+            "roundaboutSegs": 143,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Rondo Rataje",
+          "variants": 8,
+          "tripCount": 4,
+          "stops": 17,
+          "lengthKm": 8.71,
+          "stats": {
+            "observations": 367,
+            "matched": 367,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.619300129587733,
+            "roundaboutSegs": 55,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
     },
     {
       "line": "201",
