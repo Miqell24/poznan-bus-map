@@ -7,9 +7,9 @@ numbers written parallel to every street they use, labeled stops, true roundabou
 arcs.
 
 Fourth city of the family, alongside
-[krakow-bus-map](https://github.com/Miqell24/krakow-bus-map),
-[athens-bus-map](https://github.com/Miqell24/athens-bus-map) and
-[thessaloniki-bus-map](https://github.com/Miqell24/thessaloniki-bus-map) — same
+[krakow-bus-map](https://github.com/AGCGHub/krakow-bus-map),
+[athens-bus-map](https://github.com/AGCGHub/athens-bus-map) and
+[thessaloniki-bus-map](https://github.com/AGCGHub/thessaloniki-bus-map) — same
 pipeline and same visual system, different city and feeds.
 
 ## Features
